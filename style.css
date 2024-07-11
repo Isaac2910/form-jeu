@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #f0f0f0;
+    background-color: #201f1f;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,11 +14,11 @@ body {
 }
 
 .container {
-    background-color: #fff;
+    background-color: #f0d8d8;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    width: 300px;
+    width: 50%;
     text-align: center;
 }
 
@@ -44,7 +44,7 @@ input, select, button {
 }
 
 button {
-    background-color: #4CAF50;
+    background-color: #dd849a;
     color: white;
     border: none;
     cursor: pointer;
